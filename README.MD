@@ -6,7 +6,7 @@ MongoDB, Express, Node.js, Pug, Stripe
 
 ### Other
 
-Server Side Rendering, Email, Authentication, Server Security, Online Payments
+Server Side Rendering, Email, Authentication, Server Security, Online Payments, MVC Architecture
 
 ### About
 
